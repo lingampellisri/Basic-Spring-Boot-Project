@@ -9,7 +9,7 @@ public class myClass {
     @GetMapping("welcome")
 public String sayHello()
 {
-    return "Hello Spring Boot Tutorial";
+    return "<h1>Hello Spring Boot Tutorial  Iam Happy for this</h1>";
 }
 
 }
